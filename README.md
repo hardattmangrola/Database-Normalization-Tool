@@ -9,6 +9,10 @@ A comprehensive desktop application for database normalization analysis and sche
 - **Complete Normalization Process**: Step-by-step normalization from 1NF to BCNF
 - **Interactive GUI**: User-friendly interface built with Tkinter
 - **Detailed Analysis**: Comprehensive explanations of each normalization step
+  
+## Snapshots
+![image_alt](https://github.com/hardattmangrola/Database-Normalization-Tool/blob/be3db349bd88b019b91919dbd60e83dfc90293aa/ui1.png)
+![image_alt](https://github.com/hardattmangrola/Database-Normalization-Tool/blob/be3db349bd88b019b91919dbd60e83dfc90293aa/ui2.png)
 
 ## Requirements
 
